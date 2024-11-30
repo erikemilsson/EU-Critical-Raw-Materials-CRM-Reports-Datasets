@@ -26,7 +26,9 @@ The list of SRMs can be found in Annex I of the Regulation ([Link](https://eur-l
 The references for the data in the repo are as follows:
 
 * "European Commission, Study on the critical raw materials for the EU 2023 – Final Report" ([Link](https://op.europa.eu/en/publication-detail/-/publication/57318397-fdd4-11ed-a05c-01aa75ed71a1))
-* "European Commission, Study on the EU’s list of Critical Raw Materials – Final Report (2020)" [(Link)](https://ec.europa.eu/docsroom/documents/42883/attachments/1/translations/en/renditions/native)
+* "European Commission, Study on the EU’s list of Critical Raw Materials – Final Report (2020)" ([Link](https://ec.europa.eu/docsroom/documents/42883/attachments/1/translations/en/renditions/native))
+* "European Commission, Study on the review of the list of critical raw materials (2017)" ([Link](https://op.europa.eu/en/publication-detail/-/publication/08fdab5f-9766-11e7-b92d-01aa75ed71a1/language-en))
+* "European Commission, Report on Critical Raw Materials for the EU (2014)" ([Link](https://ec.europa.eu/docsroom/documents/10010/attachments/1/translations))
 
 ## Licensing & Data Ownership
 
