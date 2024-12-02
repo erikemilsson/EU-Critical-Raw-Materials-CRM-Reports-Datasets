@@ -1,5 +1,15 @@
 # Extracted tables and cleaning details from the 2023 report
 
+## Table dimension_CRMsOverTime
+
+***Table from Annex 4, pg. 61-62 - showing the tri-yearly evolution of CRM scores by material (and HREE, LREE, and PGM materials in their respective groupings).***
+
+Unpivoted by the year column.
+
+Replaced 'PGMs' to 'PGM', 'HREEs' to 'HREE', and 'LREEs' to 'LREE'.
+
+The 'aluminium/bauxite' category is actually new for 2023 as it was actually two separate categories in earlier assessment 'aluminium' and 'bauxite' [pg. 3]. To reflect this, the 'aluminium' scores for 2023 are moved to a newly created 'aluminium/bauxite' category, and the 'aluminium' scores are replaced with '-'.
+
 ## Table dimension_ScreenedMatGroupings
 
 ***This table shows material groupings for screened materials based on the table in page 2.***
@@ -8,11 +18,11 @@ The 'aluminium/bauxite' category is actually new for 2023 as it was actually two
 
 As some materials can have more than one category, different permutations of material categories for different materials have been created in different columns. For example, some assessments aggregate REEs, and/or HREEs & LREEs in direct comparisons with single materials.
 
-## fact_MaterialUseShares
+## Table fact_MaterialUseShares
 
 ***Table from Appendix 6, pg. 64-Material use shares. No changes to data.***
 
-## fact_GlobalSupplyShares&t
+## Table fact_GlobalSupplyShares&t
 
 ***Table from Appendix 7, pg. 78 - Global supply shares & trade-related variable.***
 
@@ -25,7 +35,7 @@ Added another column for the stage 'E' (extraction) or 'P' (processing). Made so
 - replaced 'UKR' with 'Ukraine' for Krypton's 'P' stage
 - replaced 'USA' with 'United States' for Krypton's 'P' stage
 
-## fact_EUSupplyShares&t
+## Table fact_EUSupplyShares&t
 
 ***Table from Appendix 7, pg. 78 - EU Sourcing shares (>=1%) and trade-related variable.***
 
