@@ -8,8 +8,6 @@ The 'aluminium/bauxite' category is actually new for 2023 as it was actually two
 
 As some materials can have more than one category, different permutations of material categories for different materials have been created in different columns. For example, some assessments aggregate REEs, and/or HREEs & LREEs in direct comparisons with single materials.
 
-
-
 ## fact_MaterialUseShares
 
 ***Table from Appendix 6, pg. 64-Material use shares. No changes to data.***
