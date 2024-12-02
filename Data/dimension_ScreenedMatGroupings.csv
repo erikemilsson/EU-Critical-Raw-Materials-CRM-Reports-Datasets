@@ -1,0 +1,91 @@
+screened_material,perm_noXREE_noPGM,perm_noXREE_PGM,perm_XREE_noPGM,perm_XREE_PGM
+dysprosium,REE,REE,HREE,HREE
+erbium,REE,REE,HREE,HREE
+europium,REE,REE,HREE,HREE
+gadolinium,REE,REE,HREE,HREE
+holmium,REE,REE,HREE,HREE
+lutetium,REE,REE,HREE,HREE
+terbium,REE,REE,HREE,HREE
+thulium,REE,REE,HREE,HREE
+ytterbium,REE,REE,HREE,HREE
+yttrium,REE,REE,HREE,HREE
+cerium,REE,REE,LREE,LREE
+lanthanum,REE,REE,LREE,LREE
+neodymium,REE,REE,LREE,LREE
+praseodymium,REE,REE,LREE,LREE
+samarium,REE,REE,LREE,LREE
+scandium,REE,REE,REE,REE
+gold,precious metals,precious metals,precious metals,precious metals
+silver,precious metals,precious metals,precious metals,precious metals
+iridium,precious metals,PGM,precious metals,PGM
+palladium,precious metals,PGM,precious metals,PGM
+platinum,precious metals,PGM,precious metals,PGM
+rhodium,precious metals,PGM,precious metals,PGM
+ruthenium,precious metals,PGM,precious metals,PGM
+chromium,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+cobalt,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+manganese,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+molybdenum,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+nickel,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+niobium,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+tantalum,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+titanium,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+titanium metal,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+tungsten,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+vanadium,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals,iron and ferro-alloy metals
+aluminium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+aluminium/bauxite,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+antimony,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+arsenic,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+bauxite,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+beryllium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+bismuth,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+cadmium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+copper,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+gallium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+germanium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+gold,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+hafnium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+indium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+lead,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+lithium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+magnesium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+rhenium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+selenium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+silicon metal,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+silver,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+strontium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+tellurium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+tin,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+zinc,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+zirconium,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals,other non-ferrous metals
+natural cork,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+natural rubber,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+natural teak wood,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+sapele wood,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+coking coal,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+hydrogen,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+helium,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+roundwood,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+neon,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+krupton,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+zenon,bio and other materials,bio and other materials,bio and other materials,bio and other materials
+aggregates,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+baryte,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+bentonite,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+borates,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+diatomite,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+feldspar,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+flourspar,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+gypsum,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+kaolin clay,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+limestone,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+magnesite,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+natural graphite,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+perlite,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+phosphate rock,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+phosphorous,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+potash,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+silica sand,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+sulphur,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals
+talc,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals,industrial and construction minerals

@@ -1,0 +1,908 @@
+Material,Stage,Country,Share,t
+Aggregates,E,Austria,4%,0.8
+Aggregates,E,Belgium,3%,0.8
+Aggregates,E,Bulgaria,1%,0.8
+Aggregates,E,Croatia,1%,0.8
+Aggregates,E,Czechia,2%,0.8
+Aggregates,E,Denmark,2%,0.8
+Aggregates,E,Estonia,1%,0.8
+Aggregates,E,Finland,3%,0.8
+Aggregates,E,France,15%,0.8
+Aggregates,E,Germany,23%,0.8
+Aggregates,E,Greece,1%,0.8
+Aggregates,E,Hungary,2%,0.8
+Aggregates,E,Ireland,1%,0.8
+Aggregates,E,Italy,6%,0.8
+Aggregates,E,Lithuania,1%,0.8
+Aggregates,E,Netherlands,3%,0.8
+Aggregates,E,Norway,1%,1
+Aggregates,E,Poland,12%,0.8
+Aggregates,E,Romania,3%,0.8
+Aggregates,E,Slovakia,1%,0.8
+Aggregates,E,Spain,4%,0.8
+Aggregates,E,Sweden,3%,0.8
+Aluminium,P,Bahrain,1%,1
+Aluminium,E,Brazil,12%,1
+Aluminium,P,Brazil,1%,1
+Aluminium,P,Cameroon,1%,1
+Aluminium,P,Canada,2%,1
+Aluminium,E,China,1%,1
+Aluminium,P,Egypt,1%,1.0
+Aluminium,E,France,1%,0.8
+Aluminium,P,France,8%,0.8
+Aluminium,P,Germany,10%,0.8
+Aluminium,E,Ghana,1%,1
+Aluminium,P,Ghana,1%,1
+Aluminium,E,Greece,10%,0.8
+Aluminium,P,Greece,3%,0.8
+Aluminium,E,Guinea,62%,1.1
+Aluminium,E,Guyana,1%,1
+Aluminium,P,Iceland,8%,1
+Aluminium,P,India,1%,1
+Aluminium,P,Kazakhstan,1%,1
+Aluminium,P,Montenegro,1%,1
+Aluminium,P,Mozambique,9%,1
+Aluminium,P,Netherlands,1%,0.8
+Aluminium,P,Norway,1%,1
+Aluminium,P,Oman,1%,1
+Aluminium,P,Romania,5%,0.8
+Aluminium,P,Russia,19%,1.1
+Aluminium,P,Saudi Arabia,1%,1
+Aluminium,E,Sierra Leone,8%,1
+Aluminium,P,Slovakia,3%,0.8
+Aluminium,P,Slovenia,1%,0.8
+Aluminium,P,South Africa,1%,1
+Aluminium,P,Spain,6%,0.8
+Aluminium,P,Sweden,2%,0.8
+Aluminium,E,Türkiye,1%,1
+Aluminium,P,United Arab Emirates,2%,1
+Aluminium,P,United Kingdom,1%,1
+Antimony,P,Belgium,21%,0.8
+Antimony,E,Bolivia,26%,1.1
+Antimony,P,Bolivia,1%,1.1
+Antimony,E,China,6%,1.1
+Antimony,P,China,30%,1.1
+Antimony,P,France,14%,0.8
+Antimony,P,Germany,2%,0.8
+Antimony,E,Guatemala,3%,1
+Antimony,P,Italy,1%,0.8
+Antimony,P,"Korea, South",3%,1
+Antimony,P,Myanmar,1%,1
+Antimony,P,Netherlands,1%,0.8
+Antimony,P,Spain,3%,0.8
+Antimony,P,Tajikistan,8%,1
+Antimony,P,Thailand,1%,1
+Antimony,E,Türkiye,63%,1
+Antimony,E,United Kingdom,1%,1
+Antimony,P,Vietnam,7%,1
+Arsenic,P,Belgium,24%,0.8
+Arsenic,P,China,16%,1
+Arsenic,P,Hong Kong,1%,1
+Arsenic,P,Morocco,14%,1
+Arsenic,P,United Kingdom,44%,1
+Barytes,E,Bulgaria,11%,0.8
+Barytes,E,Canada,1%,1
+Barytes,E,China,44%,1
+Barytes,E,Germany,7%,0.8
+Barytes,E,Morocco,28%,1
+Barytes,E,Slovakia,2%,0.8
+Barytes,E,Türkiye,4%,1
+Bentonite,E,Bulgaria,1%,0.8
+Bentonite,E,Canada,1%,1
+Bentonite,E,Cyprus,2%,0.8
+Bentonite,E,Czechia,8%,0.8
+Bentonite,E,Denmark,1%,0.8
+Bentonite,E,France,1%,0.8
+Bentonite,E,Germany,11%,0.8
+Bentonite,E,Greece,35%,0.8
+Bentonite,E,Hungary,1%,0.8
+Bentonite,E,India,3%,1
+Bentonite,E,Italy,2%,0.8
+Bentonite,E,Morocco,1%,1
+Bentonite,E,Romania,1%,0.8
+Bentonite,E,Slovakia,7%,0.8
+Bentonite,E,Spain,5%,0.8
+Bentonite,E,Türkiye,12%,1
+Bentonite,E,United States,1%,1
+Beryllium,P,China,5%,1
+Beryllium,P,Japan,10%,1
+Beryllium,P,Kazakhstan,25%,1
+Beryllium,P,United States,60%,1
+Bismuth,P,Belgium,26%,0.8
+Bismuth,P,China,50%,1
+Bismuth,P,Japan,2%,1
+Bismuth,P,"Korea, South",5%,1
+Bismuth,P,Laos,5%,1
+Bismuth,P,Thailand,9%,1
+Bismuth,P,Vietnam,3%,1
+Borate,P,Chile,1%,1
+Borate,P,China,1%,1
+Borate,P,Germany,25%,0.8
+Borate,P,Italy,1%,0.8
+Borate,P,Peru,1%,1
+Borate,P,Russia,1%,1
+Borate,E,Türkiye,99%,1
+Borate,P,Türkiye,46%,1
+Borate,P,United Kingdom,3%,1
+Borate,P,United States,20%,1
+Cadmium,P,Bulgaria,8%,0.8
+Cadmium,P,Canada,21%,1
+Cadmium,P,China,1%,1
+Cadmium,P,Germany,16%,0.8
+Cadmium,P,Japan,3%,1
+Cadmium,P,Mexico,4%,1
+Cadmium,P,Netherlands,24%,0.8
+Cadmium,P,Norway,8%,1
+Cadmium,P,Poland,5%,0.8
+Cadmium,P,Russia,4%,1
+Cadmium,P,United Kingdom,1%,1
+Cerium,P,China,85%,1
+Cerium,P,India,2%,1
+Cerium,P,Malaysia,11%,1
+Cerium,P,Norway,0.1%,1
+Cerium,P,Russia,2%,1
+Cerium,P,Vietnam,1%,1
+Chromium,P,Albania,1%,1
+Chromium,P,Finland,34%,0.8
+Chromium,P,Germany,2%,0.8
+Chromium,P,India,1%,1
+Chromium,P,Kazakhstan,3%,1
+Chromium,P,Russia,4%,1.1
+Chromium,E,South Africa,7%,1
+Chromium,P,South Africa,31%,1
+Chromium,P,Sweden,9%,0.8
+Chromium,E,Türkiye,2%,1
+Chromium,P,Türkiye,2%,1
+Chromium,P,Zimbabwe,2%,1
+Cobalt,P,Belgium,29%,0.8
+Cobalt,P,China,2%,1
+Cobalt,P,"Congo, D.R.",2%,1.1
+Cobalt,P,Finland,62%,0.8
+Cobalt,P,Norway,1%,1
+Cobalt,P,United Kingdom,1%,1
+Coking coal,E,Australia,24%,1
+Coking coal,P,Austria,3%,0.8
+Coking coal,P,Belgium,3%,0.8
+Coking coal,E,Canada,5%,1
+Coking coal,E,Colombia,1%,1
+Coking coal,E,Czechia,5%,0.8
+Coking coal,P,Czechia,6%,0.8
+Coking coal,P,Finland,2%,0.8
+Coking coal,P,France,8%,0.8
+Coking coal,E,Germany,2%,0.8
+Coking coal,P,Germany,28%,0.8
+Coking coal,P,Hungary,2%,0.8
+Coking coal,P,Italy,4%,0.8
+Coking coal,E,Mozambique,2%,1
+Coking coal,P,Netherlands,5%,0.8
+Coking coal,E,Poland,26%,0.8
+Coking coal,P,Poland,24%,0.8
+Coking coal,E,Russia,8%,1
+Coking coal,P,Russia,1%,1.1
+Coking coal,P,Slovakia,3%,0.8
+Coking coal,P,Spain,3%,0.8
+Coking coal,P,Sweden,3%,0.8
+Coking coal,E,United States,20%,1
+Copper,E,Argentina,1%,1.1
+Copper,E,Armenia,1%,1
+Copper,E,Australia,1%,1
+Copper,P,Austria,3%,0.8
+Copper,P,Belgium,9%,0.8
+Copper,E,Brazil,9%,1
+Copper,E,Bulgaria,5%,0.8
+Copper,P,Bulgaria,6%,0.8
+Copper,E,Canada,4%,1
+Copper,E,Chile,14%,1
+Copper,P,Chile,7%,1
+Copper,P,Congo,2%,1
+Copper,P,"Congo, D.R.",2%,1
+Copper,E,Finland,2%,0.8
+Copper,P,Finland,3%,0.8
+Copper,E,Georgia,3%,1
+Copper,P,Germany,17%,0.8
+Copper,E,Indonesia,1%,1.2
+Copper,P,Kazakhstan,1%,1
+Copper,E,Mexico,1%,1
+Copper,E,Morocco,1%,1
+Copper,P,Namibia,1%,1
+Copper,E,North Macedonia,1%,1
+Copper,P,Norway,1%,1
+Copper,E,Panama,1%,1
+Copper,E,Peru,10%,1
+Copper,P,Peru,1%,1
+Copper,E,Poland,19%,0.8
+Copper,P,Poland,14%,0.8
+Copper,E,Portugal,2%,0.8
+Copper,P,Russia,7%,1
+Copper,P,Serbia,1%,1
+Copper,P,South Africa,1%,1
+Copper,E,Spain,8%,0.8
+Copper,P,Spain,11%,0.8
+Copper,E,Sweden,4%,0.8
+Copper,P,Sweden,5%,0.8
+Copper,E,Türkiye,1%,1
+Copper,E,United States,3%,1
+Copper,P,Zambia,1%,1
+Diatomite,E,Czechia,9%,0.8
+Diatomite,E,Denmark,28%,0.8
+Diatomite,E,France,23%,0.8
+Diatomite,E,Germany,14%,0.8
+Diatomite,E,Mexico,1%,1
+Diatomite,E,Russia,1%,1
+Diatomite,E,Spain,16%,0.8
+Diatomite,E,United States,4%,1
+Feldspar,E,Czechia,4%,0.8
+Feldspar,E,France,5%,0.8
+Feldspar,E,Germany,2%,0.8
+Feldspar,E,Italy,22%,0.8
+Feldspar,E,Norway,3%,1
+Feldspar,E,Poland,1%,0.8
+Feldspar,E,Portugal,1%,0.8
+Feldspar,E,Spain,7%,0.8
+Feldspar,E,Türkiye,51%,1
+Fluorspar,E,Canada,2%,1
+Fluorspar,E,China,6%,1
+Fluorspar,E,Germany,8%,0.8
+Fluorspar,E,Italy,5%,0.8
+Fluorspar,E,Mexico,33%,1
+Fluorspar,E,Morocco,1%,1
+Fluorspar,E,Pakistan,1%,1
+Fluorspar,E,South Africa,11%,1
+Fluorspar,E,Spain,23%,0.8
+Fluorspar,E,United Kingdom,3%,1
+Fluorspar,E,Vietnam,6%,1
+Gallium,P,China,69%,1
+Gallium,P,Germany,2%,0.8
+Gallium,P,Hong Kong,1%,1
+Gallium,P,Russia,1%,1
+Gallium,P,Taiwan,2%,1
+Gallium,P,Ukraine,2%,1
+Gallium,P,United Kingdom,9%,1
+Gallium,P,United States,10%,1
+Germanium,P,Belgium,4%,1
+Germanium,P,China,83%,1
+Germanium,P,Germany,3%,1
+Germanium,P,Japan,2%,1
+Germanium,P,Russia,5%,1
+Germanium,P,United States,2%,1
+Gold,E,Bulgaria,28%,0.8
+Gold,E,Finland,28%,0.8
+Gold,E,Greece,6%,0.8
+Gold,E,Poland,2%,0.8
+Gold,E,Romania,2%,0.8
+Gold,E,Slovakia,1%,0.8
+Gold,E,Spain,5%,0.8
+Gold,E,Sweden,25%,0.8
+Gypsum,E,Austria,3%,0.8
+Gypsum,E,Croatia,1%,0.8
+Gypsum,E,Cyprus,2%,0.8
+Gypsum,E,France,11%,0.8
+Gypsum,E,Germany,19%,0.8
+Gypsum,E,Greece,3%,0.8
+Gypsum,E,Ireland,1%,0.8
+Gypsum,E,Italy,1%,0.8
+Gypsum,E,Latvia,1%,0.8
+Gypsum,E,Poland,4%,0.8
+Gypsum,E,Portugal,1%,0.8
+Gypsum,E,Romania,3%,0.8
+Gypsum,E,Spain,45%,0.8
+Hafnium,P,China,5%,1
+Hafnium,P,France,76%,0.8
+Hafnium,P,Russia,3%,1.1
+Hafnium,P,Ukraine,14%,1
+Heavy Rare earths Elements,E,China,43%,1
+Heavy Rare earths Elements,E,Japan,55%,1
+Heavy Rare earths Elements,E,United Kingdom,1%,1
+Heavy Rare earths Elements,E,United States,2%,1
+Helium,P,Algeria,29%,1
+Helium,P,China,4%,1
+Helium,P,Poland,5%,0.8
+Helium,P,Qatar,34%,1
+Helium,P,Russia,1%,1
+Helium,P,United Arab Emirates,2%,1
+Helium,P,United States,21%,1
+Hydrogen,E,Algeria,13%,1
+Hydrogen,E,Austria,1%,0.8
+Hydrogen,E,Croatia,1%,0.8
+Hydrogen,P,Czechia,6%,0.8
+Hydrogen,E,Denmark,2%,0.8
+Hydrogen,P,Finland,7%,0.8
+Hydrogen,P,France,7%,0.8
+Hydrogen,E,Germany,4%,0.8
+Hydrogen,P,Germany,34%,0.8
+Hydrogen,E,Hungary,1%,0.8
+Hydrogen,P,Hungary,2%,0.8
+Hydrogen,E,Ireland,1%,0.8
+Hydrogen,E,Italy,3%,0.8
+Hydrogen,P,Italy,6%,0.8
+Hydrogen,E,Libya,2%,1
+Hydrogen,E,Netherlands,21%,0.8
+Hydrogen,P,Netherlands,16%,0.8
+Hydrogen,E,Norway,9%,1
+Hydrogen,E,Poland,2%,0.8
+Hydrogen,P,Poland,9%,0.8
+Hydrogen,E,Romania,5%,0.8
+Hydrogen,E,Russia,26%,1
+Hydrogen,P,Spain,8%,0.8
+Hydrogen,E,United Kingdom,4%,1
+Indium,P,Belgium,25%,0.8
+Indium,P,China,14%,1
+Indium,P,France,38%,0.8
+Indium,P,Germany,5%,0.8
+Indium,P,Hong Kong,1%,1
+Indium,P,Taiwan,9%,1
+Indium,P,United Kingdom,2%,1
+Indium,P,United States,2%,1
+Iron ore,E,Argentina,1%,1
+Iron ore,E,Austria,1%,0.8
+Iron ore,P,Austria,4%,0.8
+Iron ore,P,Belgium,4%,0.8
+Iron ore,E,Brazil,33%,1
+Iron ore,P,Brazil,1%,1
+Iron ore,E,Canada,13%,1
+Iron ore,P,Czechia,2%,0.8
+Iron ore,P,Finland,2%,0.8
+Iron ore,P,France,8%,0.8
+Iron ore,P,Germany,25%,0.8
+Iron ore,P,Greece,1%,0.8
+Iron ore,P,Hungary,1%,0.8
+Iron ore,P,Italy,14%,0.8
+Iron ore,E,Liberia,3%,1
+Iron ore,P,Luxembourg,1%,0.8
+Iron ore,E,Mauritania,2%,1
+Iron ore,P,Netherlands,4%,0.8
+Iron ore,E,Norway,1%,1
+Iron ore,P,Poland,5%,0.8
+Iron ore,P,Portugal,1%,0.8
+Iron ore,P,Romania,2%,0.8
+Iron ore,E,Russia,2%,1
+Iron ore,P,Russia,2%,1
+Iron ore,P,Slovakia,2%,0.8
+Iron ore,E,South Africa,6%,1
+Iron ore,P,Spain,8%,0.8
+Iron ore,E,Sweden,21%,0.8
+Iron ore,P,Sweden,2%,0.8
+Iron ore,E,Ukraine,12%,1
+Iron ore,P,Ukraine,1%,1.1
+Kaolin,E,France,21%,0.8
+Kaolin,P,France,11%,0.8
+Kaolin,E,Germany,30%,0.8
+Kaolin,P,Germany,37%,0.8
+Kaolin,E,Italy,6%,0.8
+Kaolin,P,Poland,8%,0.8
+Kaolin,E,Portugal,2%,0.8
+Kaolin,P,Portugal,19%,0.8
+Kaolin,E,Spain,12%,0.8
+Kaolin,P,Spain,22%,0.8
+Kaolin,E,Ukraine,28%,1
+Krypton,P,China,2%,1
+Krypton,P,Dominican Republic,1%,1
+Krypton,P,Germany,63%,0.8
+Krypton,P,Mauritius,1%,1
+Krypton,P,Russia,4%,1
+Krypton,P,Switzerland,19%,1
+Krypton,P,Trinidad and Tobago,5%,1
+Krypton,P,Ukraine,5%,1
+Lanthanum,E,China,43%,1
+Lanthanum,P,China,85%,1
+Lanthanum,E,India,5%,1
+Lanthanum,P,India,2%,1
+Lanthanum,E,Japan,30%,1
+Lanthanum,E,Malaysia,6%,1
+Lanthanum,P,Malaysia,11%,1
+Lanthanum,P,Norway,0.1%,1
+Lanthanum,P,Russia,2%,1
+Lanthanum,E,United States,16%,1
+Lanthanum,P,Vietnam,1%,1
+Lead,E,Argentina,3%,1
+Lead,E,Australia,1%,1
+Lead,P,Austria,1%,0.8
+Lead,P,Belgium,8%,0.8
+Lead,E,Bolivia,2%,1
+Lead,E,Bulgaria,4%,0.8
+Lead,P,Bulgaria,6%,0.8
+Lead,E,Burkina Faso,1%,1
+Lead,E,Chile,1%,1
+Lead,P,Czechia,2%,0.8
+Lead,P,Estonia,1%,0.8
+Lead,P,France,4%,0.8
+Lead,P,Germany,21%,0.8
+Lead,E,Greece,3%,0.8
+Lead,P,Greece,1%,0.8
+Lead,E,Ireland,4%,0.8
+Lead,P,Ireland,1%,0.8
+Lead,P,Italy,10%,0.8
+Lead,P,Kazakhstan,1%,1
+Lead,P,"Korea, South",1%,1
+Lead,P,Lebanon,1%,1
+Lead,E,Mexico,6%,1
+Lead,E,Morocco,3%,1
+Lead,P,Netherlands,2%,0.8
+Lead,E,North Macedonia,8%,1
+Lead,E,Peru,6%,1
+Lead,E,Poland,17%,0.8
+Lead,P,Poland,10%,0.8
+Lead,E,Portugal,4%,0.8
+Lead,P,Portugal,1%,0.8
+Lead,P,Romania,1%,0.8
+Lead,P,Russia,1%,1
+Lead,E,Serbia,1%,1
+Lead,P,Slovenia,1%,0.8
+Lead,E,Spain,2%,0.8
+Lead,P,Spain,11%,0.8
+Lead,E,Sweden,17%,0.8
+Lead,P,Sweden,4%,0.8
+Lead,E,Türkiye,1%,1
+Lead,P,Ukraine,1%,1
+Lead,P,United Kingdom,4%,1
+Lead,E,United States,7%,1
+Limestone,E,Austria,3%,0.8
+Limestone,E,Bulgaria,1%,0.8
+Limestone,E,Cyprus,1%,0.8
+Limestone,E,Czechia,2%,0.8
+Limestone,E,Denmark,1%,0.8
+Limestone,E,Finland,1%,0.8
+Limestone,E,France,11%,0.8
+Limestone,E,Germany,13%,0.8
+Limestone,E,Greece,1%,0.8
+Limestone,E,Hungary,1%,0.8
+Limestone,E,Ireland,1%,0.8
+Limestone,E,Italy,16%,0.8
+Limestone,E,Norway,1%,1
+Limestone,E,Poland,11%,0.8
+Limestone,E,Portugal,1%,0.8
+Limestone,E,Romania,2%,0.8
+Limestone,E,Slovakia,1%,0.8
+Limestone,E,Slovenia,1%,0.8
+Limestone,E,Spain,21%,0.8
+Limestone,E,Sweden,1%,0.8
+Lithium,P,Argentina,6%,1.1
+Lithium,P,Chile,79%,1
+Lithium,P,China,1%,1
+Lithium,P,Switzerland,7%,1
+Lithium,P,United States,5%,1
+Magnesite,E,Austria,25%,0.8
+Magnesite,E,Finland,2%,0.8
+Magnesite,E,Greece,13%,0.8
+Magnesite,E,Poland,3%,0.8
+Magnesite,E,Slovakia,31%,0.8
+Magnesite,E,Spain,23%,0.8
+Magnesite,E,Türkiye,1%,1
+Magnesium,P,China,97%,1
+Magnesium,P,Israel,1%,1
+Magnesium,P,United Kingdom,1%,1
+Manganese,E,Australia,1%,1
+Manganese,E,Bosnia and Herzegovina,1%,1
+Manganese,E,Brazil,8%,1
+Manganese,P,Brazil,1%,1
+Manganese,E,Bulgaria,1%,0.8
+Manganese,E,Cote d'Ivoire,1%,1
+Manganese,P,France,11%,0.8
+Manganese,E,Gabon,39%,1
+Manganese,P,Gabon,1%,1
+Manganese,P,Georgia,1%,1
+Manganese,P,India,5%,1
+Manganese,P,"Korea, South",3%,1
+Manganese,P,Malaysia,3%,1
+Manganese,E,Mexico,1%,1
+Manganese,P,Norway,21%,1
+Manganese,E,Romania,2%,0.8
+Manganese,P,Slovakia,5%,0.8
+Manganese,E,South Africa,41%,1
+Manganese,P,South Africa,10%,1
+Manganese,P,Spain,14%,0.8
+Manganese,E,Ukraine,3%,1
+Manganese,P,Ukraine,19%,1
+Manganese,P,Zambia,1%,1
+Molybdenum,E,Armenia,1%,1
+Molybdenum,P,Armenia,11%,1
+Molybdenum,E,Canada,5%,1
+Molybdenum,E,Chile,16%,1
+Molybdenum,P,Chile,28%,1
+Molybdenum,E,China,1%,1
+Molybdenum,P,China,4%,1
+Molybdenum,P,Iran,1%,1
+Molybdenum,P,"Korea, South",13%,1
+Molybdenum,P,Luxembourg,2%,0.8
+Molybdenum,E,Mexico,1%,1
+Molybdenum,P,Mexico,3%,1
+Molybdenum,E,Peru,8%,1
+Molybdenum,P,Russia,1%,1
+Molybdenum,P,United Kingdom,14%,1
+Molybdenum,E,United States,59%,1
+Molybdenum,P,United States,12%,1
+Molybdenum,P,Uzbekistan,1%,1
+Natural cork,E,France,3%,0.8
+Natural cork,E,Italy,3%,0.8
+Natural cork,E,Portugal,56%,0.8
+Natural cork,E,Spain,36%,0.8
+Natural Graphite,E,Brazil,13%,1
+Natural Graphite,E,Canada,1%,1
+Natural Graphite,E,China,40%,1
+Natural Graphite,E,Japan,1%,1
+Natural Graphite,E,"Korea, South",1%,1
+Natural Graphite,E,Madagascar,6%,1
+Natural Graphite,E,Mozambique,12%,1
+Natural Graphite,E,Norway,8%,1
+Natural Graphite,E,Russia,2%,1
+Natural Graphite,E,Sri Lanka,1%,1
+Natural Graphite,E,Ukraine,7%,1
+Natural Graphite,E,United States,1%,1
+Natural Graphite,E,Zimbabwe,1%,1
+Natural Rubber,E,Cameroon,2%,1
+Natural Rubber,E,Cote d'Ivoire,19%,1
+Natural Rubber,E,Gabon,1%,1
+Natural Rubber,E,Ghana,1%,1
+Natural Rubber,E,Indonesia,30%,1
+Natural Rubber,E,Liberia,1%,1
+Natural Rubber,E,Malaysia,12%,1
+Natural Rubber,E,Nigeria,2%,1
+Natural Rubber,E,Thailand,21%,1
+Natural Rubber,E,Vietnam,8%,1
+Natural teak wood,E,Brasil,1%,1
+Natural teak wood,E,Cameroon,2%,1
+Natural teak wood,E,Canada,43%,1
+Natural teak wood,E,Costa Rica,3%,1
+Natural teak wood,E,Cote d'Ivoire,3%,1
+Natural teak wood,E,"Congo, D.R.",6%,1
+Natural teak wood,E,Ghana,22%,1
+Natural teak wood,E,Grenada,3%,1
+Natural teak wood,E,Indonesia,3%,1
+Natural teak wood,E,Laos,5%,1
+Natural teak wood,E,Mauritius,4%,1
+Natural teak wood,E,Nicaragua,2%,1
+Neodymium,E,China,43%,1
+Neodymium,P,China,85%,1
+Neodymium,E,India,5%,1
+Neodymium,P,India,2%,1
+Neodymium,E,Japan,30%,1
+Neodymium,E,Malaysia,6%,1
+Neodymium,P,Malaysia,11%,1
+Neodymium,P,Norway,0.1%,1
+Neodymium,P,Russia,2%,1
+Neodymium,E,United States,16%,1
+Neodymium,P,Vietnam,1%,1
+Neon,P,Dominican Republic,2%,1
+Neon,P,Germany,0.01%,0.8
+Neon,P,Hong Kong,1%,1
+Neon,P,Mauritius,2%,1
+Neon,P,Russia,11%,1
+Neon,P,Surinam,1%,1
+Neon,P,Switzerland,51%,1
+Neon,P,Trinidad and Tobago,12%,1
+Neon,P,Ukraine,14%,1
+Nickel,P,Australia,6%,1
+Nickel,P,Botswana,1%,1
+Nickel,P,Brazil,4%,1
+Nickel,E,Canada,24%,1
+Nickel,P,Canada,6%,1
+Nickel,P,Colombia,1%,1
+Nickel,P,Dominican Republic,1%,1
+Nickel,E,Finland,38%,0.8
+Nickel,P,Finland,17%,0.8
+Nickel,P,France,1%,0.8
+Nickel,E,Greece,19%,0.8
+Nickel,P,Greece,3%,0.8
+Nickel,E,Guatemala,2%,1
+Nickel,P,Guatemala,1%,1
+Nickel,P,Madagascar,1%,1
+Nickel,P,North Macedonia,1%,1
+Nickel,E,Norway,1%,1
+Nickel,P,Norway,10%,1
+Nickel,E,Poland,1%,0.8
+Nickel,P,Russia,29%,1
+Nickel,E,South Africa,7%,1
+Nickel,P,South Africa,2%,1
+Nickel,P,Ukraine,1%,1
+Nickel,P,United Kingdom,4%,1
+Nickel,E,United States,3%,1
+Niobium,P,Brasil,82%,1
+Niobium,P,Canada,16%,1
+Niobium,P,United Kingdom,2%,1
+Perlite,E,Brazil,1%,1
+Perlite,E,Greece,62%,0.8
+Perlite,E,Hungary,5%,0.8
+Perlite,E,Italy,4%,0.8
+Perlite,E,Slovakia,2%,0.8
+Perlite,E,South Africa,5%,1
+Perlite,E,Türkiye,14%,1
+Perlite,E,United Kingdom,1%,1
+Perlite,E,Zimbabwe,1%,1
+Phosphate Rock,E,Algeria,10%,1
+Phosphate Rock,E,Egypt,3%,1
+Phosphate Rock,E,Finland,17%,0.8
+Phosphate Rock,E,Israel,6%,1
+Phosphate Rock,E,Morocco,27%,1
+Phosphate Rock,E,Russia,24%,1
+Phosphate Rock,E,Senegal,4%,1
+Phosphate Rock,E,South Africa,5%,1
+Phosphorous,P,China,13%,1.1
+Phosphorous,P,India,1%,1
+Phosphorous,P,Kazakhstan,62%,1
+Phosphorous,P,United Kingdom,1%,1
+Phosphorous,P,Vietnam,22%,1
+Potash,E,Belarus,10%,1.1
+Potash,E,Canada,5%,1
+Potash,E,Chile,2%,1
+Potash,E,Germany,56%,0.8
+Potash,E,Israel,4%,1
+Potash,E,Russia,11%,1.0
+Potash,E,Spain,11%,0.8
+Praseodymium,E,China,43%,1
+Praseodymium,P,China,85%,1
+Praseodymium,E,India,5%,1
+Praseodymium,P,India,2%,1
+Praseodymium,E,Japan,30%,1
+Praseodymium,E,Malaysia,6%,1
+Praseodymium,P,Malaysia,11%,1
+Praseodymium,P,Norway,0.1%,1
+Praseodymium,P,Russia,2%,1
+Praseodymium,E,United States,16%,1
+Praseodymium,P,Vietnam,1%,1
+Rhenium,P,Poland,100%,0.8
+Roundwood,E,Austria,3%,0.8
+Roundwood,E,Belarus,3%,1
+Roundwood,E,Czechia,5%,0.8
+Roundwood,E,Estonia,2%,0.8
+Roundwood,E,Finland,13%,0.8
+Roundwood,E,France,6%,0.8
+Roundwood,E,Germany,12%,0.8
+Roundwood,E,Latvia,3%,0.8
+Roundwood,E,Portugal,3%,0.8
+Roundwood,E,Russia,4%,1
+Roundwood,E,Spain,4%,0.8
+Roundwood,E,Sweden,17%,0.8
+Samarium,E,China,43%,1
+Samarium,P,China,85%,1
+Samarium,E,India,5%,1
+Samarium,P,India,2%,1
+Samarium,E,Japan,30%,1
+Samarium,E,Malaysia,6%,1
+Samarium,P,Malaysia,11%,1
+Samarium,P,Norway,0.1%,1
+Samarium,P,Russia,2%,1
+Samarium,E,United States,16%,1
+Samarium,P,Vietnam,1%,1
+Sapele wood,E,Cameroon,25%,1
+Sapele wood,E,Central African Republic,1%,1
+Sapele wood,E,Congo,10%,1
+Sapele wood,E,"Congo, D.R.",2%,1
+Sapele wood,E,Indonesia,1%,1
+Sapele wood,E,Malaysia,1%,1
+Scandium,P,China,6%,1
+Scandium,P,Hong Kong,1%,1
+Scandium,P,United Kingdom,85%,1
+Scandium,P,United States,4%,1
+Selenium,P,Belgium,18%,0.8
+Selenium,P,Canada,2%,1
+Selenium,P,Chile,1%,1
+Selenium,P,China,1%,1
+Selenium,P,Finland,9%,0.8
+Selenium,P,Germany,34%,0.8
+Selenium,P,Japan,4%,1
+Selenium,P,"Korea, South",4%,1
+Selenium,P,Poland,6%,0.8
+Selenium,P,Russia,6%,1
+Selenium,P,Serbia,1%,1
+Selenium,P,Sweden,5%,0.8
+Selenium,P,Switzerland,1%,1
+Selenium,P,Taiwan,3%,1
+Silica sand,E,Austria,2%,0.8
+Silica sand,E,Bulgaria,15%,0.8
+Silica sand,E,Czechia,2%,0.8
+Silica sand,E,Denmark,1%,0.8
+Silica sand,E,Finland,1%,0.8
+Silica sand,E,France,20%,0.8
+Silica sand,E,Germany,20%,0.8
+Silica sand,E,Hungary,1%,0.8
+Silica sand,E,Italy,5%,0.8
+Silica sand,E,Latvia,1%,0.8
+Silica sand,E,Netherlands,3%,0.8
+Silica sand,E,Poland,9%,0.8
+Silica sand,E,Portugal,2%,0.8
+Silica sand,E,Slovakia,1%,0.8
+Silica sand,E,Slovenia,1%,0.8
+Silica sand,E,Spain,11%,0.8
+Silica sand,E,Sweden,1%,0.8
+Silicon metal,P,Australia,3%,1
+Silicon metal,P,Bosnia and Herzegovina,4%,1
+Silicon metal,P,Brazil,9%,1
+Silicon metal,P,China,2%,1
+Silicon metal,P,France,28%,0.8
+Silicon metal,P,Germany,6,0.8
+Silicon metal,P,Iceland,1%,1
+Silicon metal,P,Kazakhstan,1%,1
+Silicon metal,P,Malaysia,1%,1
+Silicon metal,P,Norway,33%,1
+Silicon metal,P,Russia,3%,1
+Silicon metal,P,South Africa,1%,1
+Silicon metal,P,Spain,4%,0.8
+Silver,E,Argentina,2%,1
+Silver,E,Bolivia,1%,1.1
+Silver,E,Bulgaria,2%,0.8
+Silver,E,Finland,1%,0.8
+Silver,E,Greece,1%,0.8
+Silver,E,Mexico,3%,1
+Silver,E,Peru,1%,1
+Silver,E,Poland,58%,0.8
+Silver,E,Portugal,3%,0.8
+Silver,E,Romania,1%,0.8
+Silver,E,Spain,3%,0.8
+Silver,E,Sweden,20%,0.8
+Strontium,E,Spain,99%,0.8
+Sulphur,P,Bulgaria,7%,0.8
+Sulphur,P,Finland,13%,0.8
+Sulphur,P,France,7%,0.8
+Sulphur,P,Germany,7%,0.8
+Sulphur,P,Greece,3%,0.8
+Sulphur,P,Italy,13%,0.8
+Sulphur,P,Kazakhstan,1%,1
+Sulphur,P,Lithuania,1%,0.8
+Sulphur,P,Poland,19%,0.8
+Sulphur,P,Russia,4%,1
+Sulphur,P,Spain,10%,0.8
+Sulphur,P,Sweden,6%,0.8
+Sulphur,P,United Kingdom,2%,1
+Talc,E,Australia,2%,1
+Talc,E,Austria,9%,0.8
+Talc,E,China,1%,1.1
+Talc,E,Finland,28%,0.8
+Talc,E,France,31%,0.8
+Talc,E,India,2%,1
+Talc,E,Italy,10%,0.8
+Talc,E,Netherlands,4%,0.8
+Talc,E,Pakistan,5%,1
+Talc,E,Portugal,1%,0.8
+Talc,E,Slovakia,2%,0.8
+Tantalum,E,Australia,2%,1
+Tantalum,E,Brazil,16%,1
+Tantalum,E,Burundi,1%,1
+Tantalum,E,China,7%,1
+Tantalum,E,"Congo, D.R.",35%,1
+Tantalum,E,Ethiopia,4%,1
+Tantalum,E,France,1%,0.8
+Tantalum,E,Mozambique,3%,1
+Tantalum,E,Nigeria,11%,1
+Tantalum,E,Russia,2%,1
+Tantalum,E,Rwanda,17%,1
+Tellurium,P,Belgium,18%,0.8
+Tellurium,P,Bulgaria,2%,0.8
+Tellurium,P,Canada,27%,1
+Tellurium,P,Finland,4%,0.8
+Tellurium,P,Germany,16%,0.8
+Tellurium,P,Japan,1%,1
+Tellurium,P,Philippines,9%,1
+Tellurium,P,Russia,3%,1
+Tellurium,P,Sweden,16%,0.8
+Tin,E,Argentina,1%,1
+Tin,P,Belgium,18%,0.8
+Tin,P,Bolivia,5%,1.1
+Tin,P,Brazil,5%,1
+Tin,P,China,3%,1.5
+Tin,P,Indonesia,33%,1
+Tin,P,Malaysia,6%,1
+Tin,E,Peru,1%,1
+Tin,P,Peru,10%,1
+Tin,P,Poland,7%,0.8
+Tin,E,Portugal,40%,0.8
+Tin,E,Russia,17%,1
+Tin,P,Russia,1%,1
+Tin,P,Singapore,2%,1
+Tin,E,Spain,26%,0.8
+Tin,E,Thailand,3%,1
+Tin,P,Thailand,3%,1
+Tin,E,United Kingdom,1%,1
+Tin,P,United Kingdom,2%,1
+Tin,E,United States,7%,1
+Titanium,P,Belgium,4%,0.8
+Titanium,P,Canada,9%,1
+Titanium,P,China,4%,1
+Titanium,P,Finland,3%,0.8
+Titanium,P,France,1%,0.8
+Titanium,P,Germany,64%,0.8
+Titanium,P,Italy,4%,0.8
+Titanium,P,Kazakhstan,1%,1
+Titanium,P,Norway,1%,1
+Titanium,P,Russia,2%,1.1
+Titanium metal,P,Canada,1%,1
+Titanium metal,P,China,9%,1
+Titanium metal,P,Japan,5%,1
+Titanium metal,P,Kazakhstan,36%,1
+Titanium metal,P,Morocco,1%,1
+Titanium metal,P,Norway,1%,1
+Titanium metal,P,Russia,34%,1.1
+Titanium metal,P,Switzerland,5%,1
+Titanium metal,P,Türkiye,1%,1
+Titanium metal,P,Ukraine,2%,1.1
+Titanium ores,E,Australia,6%,1
+Titanium ores,E,Brazil,2%,1
+Titanium ores,E,Canada,14%,1
+Titanium ores,E,India,3%,1.1
+Titanium ores,E,Mozambique,9%,1
+Titanium ores,E,Norway,23%,1
+Titanium ores,E,Sierra Leone,5%,1.1
+Titanium ores,E,South Africa,15%,1
+Titanium ores,E,Ukraine,9%,1
+Titanium ores,E,United Kingdom,9%,1
+Tungsten,E,Austria,34%,0.8
+Tungsten,P,Austria,19%,0.8
+Tungsten,P,Brazil,1%,1
+Tungsten,P,Canada,1%,1
+Tungsten,P,China,31%,1
+Tungsten,P,Israel,1%,1
+Tungsten,P,"Korea, South",3%,1
+Tungsten,E,Portugal,22%,0.8
+Tungsten,P,Russia,9%,1
+Tungsten,E,Spain,21%,0.8
+Tungsten,P,United Kingdom,3%,1
+Tungsten,P,United States,9%,1
+Tungsten,P,Vietnam,14%,1.1
+Vanadium,P,Brazil,7%,1
+Vanadium,P,China,12%,1
+Vanadium,P,Latvia,1%,0.8
+Vanadium,P,Libanon,1%,1
+Vanadium,P,Morocco,1%,1
+Vanadium,P,Russia,44%,1
+Vanadium,P,South Africa,16%,1
+Vanadium,P,South Korea,17%,1
+Xenon,P,China,1%,1
+Xenon,P,France,49%,0.8
+Xenon,P,Germany,36%,0.8
+Xenon,P,Russia,2%,1
+Xenon,P,Switzerland,8%,1
+Xenon,P,Trinidad and Tobago,2%,1
+Xenon,P,Ukraine,2%,1
+Ytterbium,P,China,61%,1
+Ytterbium,P,"Korea, South",1%,1
+Ytterbium,P,Russia,31%,1
+Ytterbium,P,Singapore,1%,1
+Ytterbium,P,United States,4%,1
+Yttrium,P,China,61%,1
+Yttrium,P,"Korea, South",1%,1
+Yttrium,P,Russia,31%,1
+Yttrium,P,Singapore,1%,1
+Yttrium,P,United States,4%,1
+Zinc,E,Australia,8%,1
+Zinc,P,Belgium,11%,0.8
+Zinc,E,Bolivia,5%,1
+Zinc,E,Bulgaria,1%,0.8
+Zinc,P,Bulgaria,3%,0.8
+Zinc,E,Burkina Faso,3%,1
+Zinc,E,Chile,1%,1
+Zinc,E,Finland,3%,0.8
+Zinc,P,Finland,12%,0.8
+Zinc,P,France,6%,0.8
+Zinc,P,Germany,7%,0.8
+Zinc,E,Greece,1%,0.8
+Zinc,E,Honduras,1%,1
+Zinc,E,Ireland,7%,0.8
+Zinc,P,Italy,5%,0.8
+Zinc,P,Kazakhstan,1%,1
+Zinc,E,Mexico,7%,1
+Zinc,P,Mexico,1%,1
+Zinc,E,Montenegro,1%,1
+Zinc,E,Namibia,1%,1
+Zinc,P,Namibia,1%,1
+Zinc,P,Netherlands,11%,0.8
+Zinc,E,North Macedonia,1%,1
+Zinc,P,Norway,4%,1
+Zinc,E,Peru,13%,1
+Zinc,P,Peru,4%,1
+Zinc,E,Poland,2%,0.8
+Zinc,P,Poland,7%,0.8
+Zinc,E,Portugal,6%,0.8
+Zinc,E,Serbia,1%,1
+Zinc,E,Spain,4%,0.8
+Zinc,P,Spain,22%,0.8
+Zinc,E,Sweden,13%,0.8
+Zinc,E,Türkiye,4%,1
+Zinc,E,United States,10%,1
+Zirconium,E,Australia,32%,1
+Zirconium,E,Indonesia,1%,1
+Zirconium,E,Kenya,2%,1
+Zirconium,E,Madagascar,1%,1
+Zirconium,E,Mozambique,10%,1
+Zirconium,E,Senegal,11%,1.1
+Zirconium,E,South Africa,40%,1
+Zirconium,E,Ukraine,1%,1
+Zirconium,E,United States,1%,1
